@@ -1,0 +1,61 @@
+---=== Trees ===---
+
+-- Ternary Trees vs Binary Trees --
+
+    A Binary Tree has 2 branches off of the root:
+                  1
+                 / \
+                2   3
+
+    And a Ternary Tree has 3 branches off of the root:
+                   1
+                 / | \
+                2  3  4
+
+-- Trees vs Binary Trees --
+
+    Trees are composed of individual nodes
+
+                1
+               / \
+              2   3
+            / |   | \
+           4  5   6  7
+              |        \
+              8         9
+                       /
+                      10
+
+    This example is just a Tree ^
+    Why? - From each parent to child if x was the parent, the child to the right would have to be bigger than x and the child to the left would have to be smaller than x
+
+    This is a Binary Tree:
+                8
+               / \
+              4   10
+            / |     \
+           2  6      20
+
+    Each number represents a node in the tree.
+    Root: Node: '1' ( the beginning of the tree )
+    Parent: Node 1 is 2 & 3's parent
+    Child: Node 10 is 9's child
+    Leaf: Node 10 is also a leaf off of Node 9
+
+-- Binary Tree Traversals ---
+
+    There are different ways to traverse through a Binary Tree:
+
+        In-order Traversal:
+            This means that the traversal visits every Node in the tree from the left, to the Root, to the right.
+
+        Pre-order Traversal:
+            This means that the traversal visits the current node before its child Node.
+
+        Post-order Traversal:
+            This means that the traversal visits the child nodes before it visits the parent Node.
+
+-- Graphs --
+
+A tree is a graph.
+A graph is just a collection of Nodes with edges between some of them.

@@ -1,0 +1,26 @@
+--- Data Structures ---
+
+1. Linked Lists
+2. Trees, Tries & Graphs
+3. Queues
+4. Stacks
+5. Heaps
+6. Vectors/ArrayLists
+7. HashTables
+
+
+--- Algorithms ---
+
+1. Breadth-First Search
+2. Depth-First Search
+3. Binary Search
+4. Merge Sort
+5. Quick Sort
+
+--- Concepts ---
+
+1. Bit Manipulation
+2. Memory ( Stack vs. Heap )
+3. Recursion
+4. Dynamic Programming
+5. Big O Time & Space Complexity

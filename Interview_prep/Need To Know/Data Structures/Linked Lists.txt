@@ -1,0 +1,4 @@
+
+Linked Lists are similar to an array that holds data.
+Each element is stored inside a Node, the node that you refference is called a Pointer.
+

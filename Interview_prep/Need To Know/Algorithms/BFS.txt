@@ -1,0 +1,2 @@
+
+A depth first search starts at the Root of the tree and explores each of the neighbors before moving on to the next Node.

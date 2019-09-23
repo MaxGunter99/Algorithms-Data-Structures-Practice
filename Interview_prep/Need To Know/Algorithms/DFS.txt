@@ -1,0 +1,1 @@
+A depth first search starts at the root, and explores each branch completely, before moving on to the next branch.

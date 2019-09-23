@@ -1,0 +1,12 @@
+---=== Queues ===---
+
+Queues use First-in First-out ( FIFO ) ordering.
+Like a line, the one who ordered food first will be the one to get their food first.
+
+Operations:
+
+    1. append( x ) - Adds x to the end of the list
+    2. remove() - Removes the first item from the list ( Shift() in javascript )
+    3. peek() - Returns the top of the Queues
+    4. isEmpty() - If true if the queue is isEmpty
+
