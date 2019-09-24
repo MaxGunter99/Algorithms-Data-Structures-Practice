@@ -4,3 +4,5 @@ Binary Heap:
 
     When inserting a number into a binary heap, you have to look at each of the nodes and check if the vaue is bigger or smaller than the child nodes so it fits accordingly.
     So you have to swap a ton of values.
+
+Usually have O(n) time complexity

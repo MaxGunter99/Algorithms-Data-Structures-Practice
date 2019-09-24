@@ -1,0 +1,6 @@
+
+Hash Tables have O(1) time complexity.
+provides data lookup by key and behaves like a dictionary, you can refference a value by its key ( or index ).
+There can be collisions if there are two values combined to the same Key.
+You can avoid collisions by using open addressing or linked list chaining.
+Linked list chaining traverses through the table to see if there is a taken key.
